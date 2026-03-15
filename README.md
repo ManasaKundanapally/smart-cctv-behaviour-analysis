@@ -22,3 +22,9 @@ Run the main project using:
 
 ```bash
 python smart_cctv_main.py
+
+## Future Improvements
+- YOLO-based person detection
+- Face detection
+- Entry and exit tracking
+- Analytics dashboard
