@@ -33,3 +33,6 @@ python smart_cctv_main.py
 1. Install required libraries:
 ```bash
 pip install -r requirements.txt
+Added usage instructions to README
+## Author
+Manasa Kundanapally
