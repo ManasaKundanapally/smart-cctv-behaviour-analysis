@@ -38,5 +38,8 @@ Added usage instructions to README
 - Retail store monitoring
 - Customer behavior analysis
 - Smart surveillance systems
+## Output Screenshot
+
+![Project Output](screenshot.png)
 ## Author
 Manasa Kundanapally
