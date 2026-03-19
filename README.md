@@ -40,6 +40,12 @@ Added usage instructions to README
 - Smart surveillance systems
 ## Output Screenshot
 
+## Project Highlights
+- Real-time person detection using OpenCV
+- Customer entry tracking using line crossing logic
+- Time tracking of individuals in frame
+- CSV-based logging for analytics
+- Modular Python scripts for scalability
 ![Project Output](screenshot.png)
 ## Author
 Manasa Kundanapally
