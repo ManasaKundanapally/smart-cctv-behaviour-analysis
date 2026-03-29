@@ -71,6 +71,9 @@ When running the system, the console and screen display:
 - NumPy
 - CSV (for data logging)
 
+## Version
+Current Version: v1.0
+
 Example:
 People: 1  
 Entered: 3  
