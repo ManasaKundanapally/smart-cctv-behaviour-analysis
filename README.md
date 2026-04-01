@@ -79,6 +79,15 @@ Current Version: v1.0
 Current Version: v1.0  
 Status: Completed basic functionality
 
+## Project Structure
+
+- smart_cctv_main.py → Main application
+- person_detection.py → Detects people
+- people_counter.py → Counts people
+- entry_counter.py → Counts entries
+- line_counter.py → Line crossing logic
+- data_logger.py → Logs data
+
 Example:
 People: 1  
 Entered: 3  
