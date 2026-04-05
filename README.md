@@ -1,4 +1,4 @@
-# Smart CCTV Behaviour Analysis
+  # Smart CCTV Behaviour Analysis
 
 A Python and OpenCV based smart surveillance project that detects people from a webcam feed and analyzes customer behaviour.
 
@@ -94,6 +94,14 @@ Status: Completed basic functionality
 - Smart surveillance systems  
 - Crowd monitoring  
 - Entry/exit analytics  
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone <your-repo-link>
+
+pip install -r requirements.txt
 
 Example:
 People: 1  
